@@ -36,9 +36,9 @@ Este proyecto grupal fue una colaboración entre un equipo de desarrolladores we
 .
 # Habilidades Blandas
 
-- **Trabajo en Equipo**: Descripción de tu habilidad para trabajar en equipo, comunicarte efectivamente y colaborar con otros.
-- **Resolución de Problemas**: Ejemplos de cómo has enfrentado desafíos y encontrado soluciones creativas.
-- **Comunicación Efectiva**: Ejemplos de tu capacidad para comunicarte de manera clara y concisa, tanto verbalmente como por escrito.
+- **Trabajo en Equipo**
+- **Resolución de Problemas**
+- **Comunicación Efectiva**
 
 # Tecnologías
 
@@ -49,11 +49,6 @@ Este proyecto grupal fue una colaboración entre un equipo de desarrolladores we
 - React.js
 - Redux
 - PostgreSQL
-- ...
-
-# Experiencia en Trabajo en Equipo
-
-Descripción de tu experiencia trabajando en equipo en proyectos anteriores. Destaca cómo colaboraste con otros desarrolladores, diseñadores y miembros del equipo para alcanzar objetivos comunes.
 
 # Contacto
 
