@@ -1,6 +1,9 @@
 # Sobre Mí
 
 ¡Hola! Soy Julia, una apasionada desarrolladora web con una fuerte inclinación por la tecnología y el aprendizaje continuo.
+Mi experiencia abarca desde la manipulación de datos en bases de datos relacionales con PostgreSQL hasta la creación de interfaces de usuario dinámicas y atractivas con React.js y Redux. Además, tengo sólidos conocimientos en el manejo de lenguajes front-end como HTML, CSS y JavaScript.
+
+Lo que más me entusiasma es enfrentar nuevos desafíos y buscar soluciones creativas para problemas complejos. Soy un firme creyente en el aprendizaje continuo y estoy siempre en busca de mejorar mis habilidades y conocimientos en el cambiante mundo del desarrollo web.
 
 # Proyectos Realizados
 
